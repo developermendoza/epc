@@ -1,0 +1,17 @@
+.top_nav {
+  background-color: #2a2a2a;
+  display: none;
+  padding: 10px 40px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.top_nav p {
+  padding-left: 10px;
+}
+
+@media only screen and (min-width: 976px) {
+  .top_nav {
+    display: block;
+  }
+}

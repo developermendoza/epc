@@ -1,0 +1,18 @@
+.news_button {
+  border: 1px solid #979797;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+  padding: 15px 20px;
+  transition: 0.15s all;
+}
+.news_button div {
+  display: flex;
+  justify-content: space-between;
+  align-items: "center";
+}
+
+.news_button:hover {
+  background-color: #2a2a2a;
+  color: #fff;
+}

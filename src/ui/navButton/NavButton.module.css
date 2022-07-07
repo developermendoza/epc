@@ -1,0 +1,19 @@
+.nav_button {
+  background-color: #0fba40;
+  color: white;
+  border: none;
+  padding: 43px;
+  font-weight: bold;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.nav_button:hover {
+  background-color: #28ee61;
+  color: #2a2a2a;
+}
+
+.nav_button p {
+  margin-right: 5px;
+}
